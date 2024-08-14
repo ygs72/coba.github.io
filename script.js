@@ -1,4 +1,4 @@
-const tex = "Selamat datang Di website Autobots disini"
+const text = "Selamat datang Di website Autobots disini"
             "Saya sebagai web Developer (Full-stack)" 
             "Saya tidak menerima Job apapun kondisi apapun.";
 const typingElement = document.getElementById("typing-effect");
